@@ -29,9 +29,9 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
+| **Full Name** | [layan wesam alaghbar] |
+| **Student ID** | [446052621] |
+| **University Email** | [446052621]@std.psau.edu.sa |
 | **GitHub Username** | [your-github-username] |
 | **Repository Link** | [Paste your repository link here] |
  
@@ -129,42 +129,42 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [october 7,2026]
+**What I did**:I updated my student ID in the project.
 
-**Details**:
+**Details**: I opened SchedulerSimulation.java, changed the student ID, and committed the change to GitHub.
 
-**Challenges**:
+**Challenges**:I needed to make sure I was editing the correct student ID value.
 
-**Solution**:
+**Solution**: I checked the code and updated the student ID in the correct place.
 
-**Time spent**:
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+**Time spent**:5 minutes
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**:
+### Entry 2 - [october 7,2026]
+**What I did**:I worked on the Process Priority feature.
 
-**Details**:
+**Details**: I added a priority value for each process, from 1 to 10. I also made the priority appear when a process enters the ready queue. I tested the feature to check that it worked.
 
-**Challenges**:
+**Challenges**: I had difficulty finding the correct place in the code to make the changes.
 
-**Solution**:
+**Solution**: I looked through the code to find where the changes needed to be made.
 
-**Time spent**:
+**Time spent**:30 minutes
+
+---
+
+### Entry 3 - [october 8,2026]
+**What I did**:I implemented and tested the Context Switch Counter feature.
+
+**Details**:I added a counter to track context switches during the scheduling simulation. The program displays the final count when the simulation ends. I ran the program and checked that the counter appeared in the output.
+
+**Challenges**:I had difficulty understanding how the counter should work and when its value should increase.
+
+**Solution**: I reviewed the code to understand when a new process starts running and how the counter should be updated.
+
+**Time spent**:Less than 30 minutes.
 
 ---
 
