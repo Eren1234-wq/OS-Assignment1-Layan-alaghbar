@@ -32,14 +32,14 @@
 | **Full Name** | [layan wesam alaghbar] |
 | **Student ID** | [446052621] |
 | **University Email** | [446052621]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **GitHub Username** | [Layan1234-wq] |
+| **Repository Link** | (https://github.com/Layan1234-wq/OS-Assignment1-Layan-alaghbar)|
  
 ---
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [[Paste your video link here](https://drive.google.com/file/d/1G7IShUSKFNk9Wdonzq_51CUWIrwFu2wN/view?usp=drivesdk)
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -181,16 +181,16 @@
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**:
+### Entry 5 - [10 October 2026]
+**What I did**:I tested my program and checked the results.
 
-**Details**:
+**Details**:I checked if the priorities, context switch counter, and waiting times were working. I also checked the final table to make sure it showed the correct information
 
-**Challenges**:
+**Challenges**: I had some difficulty making sure all the features worked together\.
 
-**Solution**:
+**Solution**: I ran the program a few times and checked the output to see if everything was working as expected
 
-**Time spent**:
+**Time spent**: 30 minutes
 
 ---
 
@@ -211,13 +211,13 @@
 
 > 💡 **TIP:** Fill this in **last**, after all entries are written.
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [9 hours]
 
-**Most challenging part**:
+**Most challenging part**:The most challenging part was adding the new features and making sure they worked correctly with the existing code.
 
-**Most interesting learning**:
+**Most interesting learning**: I learned how threads work in a scheduling simulation and how to calculate waiting time and turnaround time.
 
-**What I would do differently next time**:
+**What I would do differently next time**:I would organize my work better and test each feature after adding it instead of waiting until the end.
 
 ---
 
